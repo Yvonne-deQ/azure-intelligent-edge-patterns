@@ -43,7 +43,7 @@ VOE enables you to build and deploy custom computer vision solutions without usi
      1. Under **Project type**, choose **Perform object detection** or **Perform image classification**.
      
           For more information on the project types, select **Help me choose**.
-     1. Under **Optimization, choose to optimize the project for **Accuracy**, **Low network latency**, or **A balance of both**.
+     1. Under **Optimization**, choose to optimize the project for **Accuracy**, **Low network latency**, or **A balance of both**.
      1. Select **Create**.
 
 ## Next steps
